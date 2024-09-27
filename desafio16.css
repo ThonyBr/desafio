@@ -2,4 +2,6 @@ body{
     height: 100%;
     min-height: 100%;
     background: linear-gradient(90deg, #7c7979 ,#070707 100%);
+    display: flex;
+    justfy-content:
 }
