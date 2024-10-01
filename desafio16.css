@@ -3,5 +3,16 @@ body{
     min-height: 100%;
     background: linear-gradient(90deg, #7c7979 ,#070707 100%);
     display: flex;
-    justfy-content:
+    justfy-content: center;
+    
+}
+
+.tela {
+   background-color; #fafafa;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgb(224, 248,6)
+    width: 400px;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 20px;
 }
