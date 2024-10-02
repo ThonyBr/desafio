@@ -1,16 +1,8 @@
-.peg{
+.peq{
     width: 50px;
     height: 50px;
 }
 
 .main-image img{
     width: 500px;
-    height: 300px;
-
-}
-
-.teste{
-    width: 50px;
-    height: 500px;
-    position:relative;
 }
