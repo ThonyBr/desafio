@@ -2,13 +2,13 @@ const container = document.querySelector('.container');
 
 // Array com os dados dos jogos (nome e imagem)
 const jogos = [
-    { nome: 'Pac-Man', imagem: 'Mario2.jpg' },
-    { nome: 'Mario Bros', imagem: 'mario-bros.jpg' },
-    { nome: 'Pitfall', imagem: 'Modelo 2.png' },
-    { nome: 'Enduro', imagem: 'morris.webp' },
-    { nome: 'Donkey Kong', imagem: 'mario-bros.jpg' },
-    { nome: 'Galaxy', imagem: 'mario-bros.jpg' },
-    { nome: 'Tennis', imagem: 'mario-bros.jpg' },   
+    { nome: 'Pac-Man', imagem: 'Pac Man.jpeg' },
+    { nome: 'Mario Bros', imagem: 'Mario Bros.jpeg' },
+    { nome: 'Pitfall', imagem: 'PitFall.jpeg' },
+    { nome: 'Enduro', imagem: 'Enduro.jpeg' },
+    { nome: 'Donkey Kong', imagem: 'Donkey Cong.jpeg' },
+    { nome: 'Galaxy', imagem: 'Galaxy.jpg' },
+    { nome: 'Tennis', imagem: 'Tetris.jpeg' },   
     // ... adicione os demais jogos aqui ...
 ];
 
